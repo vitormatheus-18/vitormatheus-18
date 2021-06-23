@@ -2,11 +2,11 @@
 
 ### Olá pessoal 👋
 
-Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar conhecimentos.
+Estou sempre na busca por novas experiências como desenvolvedor, de modo a sempre receber e compartilhar conhecimentos.
 
-- 💻 Atualmente estou estudando React e Angular.
+- 💻 Atualmente estou estudando os frameworks: React e Angular.
 
-- 💬 Sobre mim: Curto tecnologias e esportes.
+- 💬 Sobre mim: Curto tecnologias e nas horas livres assisto um futebolzinho ⚽.
 
 ✉️ Entre em contato comigo:
 
@@ -15,5 +15,5 @@ Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar
 [![Gmail Badge](https://img.shields.io/badge/-vitormatheusmm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitormatheusmm@gmail.com)](mailto:vitormatheusmm@gmail.com)
 
 
-[![mateusntn github stats](https://github-readme-stats.vercel.app/api?username=vitormatheus-18&show_icons=true&theme=onedark)](https://github.com/vitormatheus-18) 
+[![vitormatheus-18 github stats](https://github-readme-stats.vercel.app/api?username=vitormatheus-18&show_icons=true&theme=onedark)](https://github.com/vitormatheus-18) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormatheus-18&layout=compact&theme=onedark)](https://github.com/vitormatheus-18)
