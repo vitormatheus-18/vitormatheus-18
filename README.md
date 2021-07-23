@@ -1,12 +1,13 @@
-# Vitor Matheus
+# Vitor Matheus 👨‍💻
 
 ### Olá pessoal 👋
 
+Sou Brasileiro, nordestino e um apaixonado por tecnologia desde a infância. 
 Estou sempre na busca por novas experiências como desenvolvedor, de modo a sempre receber e compartilhar conhecimentos.
 
 - 💻 Atualmente estou estudando os frameworks: React e Angular.
 
-- 💬 Sobre mim: Curto tecnologias e nas horas livres assisto um futebolzinho ⚽.
+- 💬 Sobre mim: Nas horas livres assisto e prático um futebolzinho ⚽.
 
 ✉️ Entre em contato comigo:
 
