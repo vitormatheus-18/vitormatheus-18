@@ -2,7 +2,7 @@
 
 ### Olá pessoal 👋
 
-Sou Brasileiro, nordestino e um apaixonado por tecnologia desde a infância. 
+Sou Brasileiro, nordestino e um apaixonado por tecnologia. 
 Estou sempre na busca por novas experiências como desenvolvedor, de modo a sempre receber e compartilhar conhecimentos.
 
 - 💻 Atualmente estou estudando os frameworks: React e Angular.
