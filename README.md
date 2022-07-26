@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitor Matheus and i'm fullstack developer Jr, from Recife, Brasil. 🇧🇷</p>
+<p align="left">My name is Vitor Matheus and I'm fullstack developer Jr, from Recife, Brazil. 🇧🇷</p>
 
 ###
 
